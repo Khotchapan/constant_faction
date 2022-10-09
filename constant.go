@@ -9,4 +9,8 @@ type TestConstantFaction struct{
 func TestPrintConstant() string {
  return "Hello"
 }
+
+func HelloWorld() string {
+	return "HelloWorld v2.0"
+   }
 	
